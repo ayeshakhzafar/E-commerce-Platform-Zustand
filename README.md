@@ -34,7 +34,7 @@ A dynamic and modular e-commerce platform built with **React** and **Zustand** f
 ## 🧪 How to Run
 
 1. Clone the repository:
-   ```bash
+  
    git clone https://github.com/ayeshakhzafar/E-commerce-Platform-Zustand.git
 
 2. Install dependencies:
